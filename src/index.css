@@ -1,3 +1,14 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+
+.title-size{
+  font-size: 3rem;
+}
+
+.margin-image{
+  margin: auto;
+  background-size: cover;
+  
+}
