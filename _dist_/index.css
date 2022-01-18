@@ -1,0 +1,14 @@
+@import "../_snowpack/pkg/tailwindcss/dist/base.css";
+@import "../_snowpack/pkg/tailwindcss/dist/components.css";
+@import "../_snowpack/pkg/tailwindcss/dist/utilities.css";
+
+
+.title-size{
+  font-size: 3rem;
+}
+
+.margin-image{
+  margin: auto;
+  background-size: cover;
+  
+}
